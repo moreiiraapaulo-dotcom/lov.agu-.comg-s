@@ -75,7 +75,7 @@ export default function App() {
       title: 'Afiliação / Ganhe Com Meus Links',
       image: IMAGES.dfyne,
       type: 'discount',
-      url: '#'
+      url: 'https://samyramoreira1.vercel.app/'
     }
   ];
 
