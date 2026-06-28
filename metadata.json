@@ -1,0 +1,6 @@
+{
+  "name": "Dominique Moore Linktree",
+  "description": "A beautiful, polished and responsive replica of Dominique Moore's personal Linktree profile with interactive elements and high-fidelity styling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
