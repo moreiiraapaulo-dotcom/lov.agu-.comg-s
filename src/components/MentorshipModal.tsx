@@ -27,7 +27,7 @@ export default function MentorshipModal({ isOpen, onClose, mentorImage }: Mentor
     'Plano de treino 100% individualizado',
     'Acompanhamento nutricional focado em performance',
     'Feedback semanal de progresso por videochamada',
-    'Acesso prioritário via WhatsApp direto com Dominique',
+    'Acesso prioritário via WhatsApp direto com Samyra',
     'Ajustes mensais conforme sua evolução física',
   ];
 
@@ -64,7 +64,7 @@ export default function MentorshipModal({ isOpen, onClose, mentorImage }: Mentor
               <div className="relative">
                 <img
                   src={mentorImage}
-                  alt="Dominique Moore"
+                  alt="Samyra Moreira"
                   className="h-20 w-20 rounded-full object-cover border-4 border-white shadow-md"
                   referrerPolicy="no-referrer"
                 />
@@ -73,7 +73,7 @@ export default function MentorshipModal({ isOpen, onClose, mentorImage }: Mentor
                 </div>
               </div>
               <h3 className="mt-3 text-xl font-bold text-neutral-900">Mentoria Individual</h3>
-              <p className="text-xs font-semibold text-pink-600 tracking-wider uppercase mt-1">Vagas Limitadas • Dominique Moore</p>
+              <p className="text-xs font-semibold text-pink-600 tracking-wider uppercase mt-1">Vagas Limitadas • Samyra Moreira</p>
               <p className="mt-2 text-sm text-neutral-600 max-w-sm">
                 Transforme seu corpo e sua mente com um plano sob medida de nutrição e treinamento exclusivo.
               </p>
@@ -108,7 +108,7 @@ export default function MentorshipModal({ isOpen, onClose, mentorImage }: Mentor
                     </div>
                     <h5 className="font-bold text-neutral-900">Solicitação Enviada!</h5>
                     <p className="text-xs text-neutral-500 max-w-xs mt-1">
-                      A Dominique ou a equipe entrará em contato com você nas próximas 24 horas via e-mail.
+                      A Samyra ou a equipe entrará em contato com você nas próximas 24 horas via e-mail.
                     </p>
                   </motion.div>
                 ) : (

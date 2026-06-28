@@ -50,7 +50,7 @@ export default function ShareModal({ isOpen, onClose, profileUrl }: ShareModalPr
               </div>
               <h3 className="font-bold text-neutral-900 text-lg">Compartilhar Perfil</h3>
               <p className="text-xs text-neutral-500 mt-1 max-w-xs">
-                Compartilhe o Linktree da Dominique Moore com seus amigos ou redes sociais.
+                Compartilhe o Linktree da Samyra Moreira com seus amigos ou redes sociais.
               </p>
             </div>
 

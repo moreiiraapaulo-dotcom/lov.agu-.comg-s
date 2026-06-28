@@ -120,7 +120,7 @@ export default function App() {
             >
               <img
                 src={IMAGES.profile}
-                alt="Dominique Moore Profile"
+                alt="Samyra Moreira Profile"
                 className="h-[84px] w-[84px] rounded-full object-cover"
                 referrerPolicy="no-referrer"
               />

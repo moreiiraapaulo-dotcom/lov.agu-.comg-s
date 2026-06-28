@@ -84,7 +84,7 @@ export default function InstagramModal({ isOpen, onClose, instaImage }: Instagra
                 </div>
                 <div>
                   <h3 className="font-bold text-neutral-900">Instagram Feed</h3>
-                  <p className="text-[10px] text-neutral-500 font-medium">@dommooree05 no Instagram</p>
+                  <p className="text-[10px] text-neutral-500 font-medium">@samyramoreira no Instagram</p>
                 </div>
               </div>
               <button
@@ -100,13 +100,13 @@ export default function InstagramModal({ isOpen, onClose, instaImage }: Instagra
               <div className="flex items-center gap-4">
                 <img
                   src={posts[0].image}
-                  alt="Dominique Moore"
+                  alt="Samyra Moreira"
                   className="h-16 w-16 rounded-full object-cover border-2 border-neutral-200 p-0.5"
                   referrerPolicy="no-referrer"
                 />
                 <div className="flex-grow">
                   <div className="flex items-center gap-2">
-                    <span className="font-bold text-base text-neutral-900">dommooree05</span>
+                    <span className="font-bold text-base text-neutral-900">samyramoreira</span>
                     <span className="inline-flex items-center gap-0.5 rounded bg-blue-50 px-1.5 py-0.5 text-[9px] font-bold text-blue-600 border border-blue-100">
                       <Award className="h-2.5 w-2.5" /> Verified
                     </span>
@@ -119,9 +119,9 @@ export default function InstagramModal({ isOpen, onClose, instaImage }: Instagra
                 </div>
               </div>
               <p className="text-xs text-neutral-600 mt-3 leading-relaxed">
-                🌸 Personal Coach & Athlete<br />
-                💪 Coaching women to build core strength and confidence<br />
-                ⚡️ Code: <strong>MINI</strong> for 10% off DFYNE
+                🌸 Atleta & Mentora Fitness<br />
+                💪 Ajudando mulheres a construírem força e confiança<br />
+                ⚡️ Cupom: <strong>MINI</strong> para 10% off na DFYNE
               </p>
             </div>
 
@@ -180,11 +180,11 @@ export default function InstagramModal({ isOpen, onClose, instaImage }: Instagra
                       <div className="flex items-center gap-2">
                         <img
                           src={posts[0].image}
-                          alt="Dominique"
+                          alt="Samyra"
                           className="h-8 w-8 rounded-full object-cover"
                           referrerPolicy="no-referrer"
                         />
-                        <span className="font-bold text-xs text-neutral-900">dommooree05</span>
+                        <span className="font-bold text-xs text-neutral-900">samyramoreira</span>
                       </div>
                       <button
                         onClick={() => setSelectedPost(null)}
@@ -215,7 +215,7 @@ export default function InstagramModal({ isOpen, onClose, instaImage }: Instagra
                     </div>
 
                     <p className="mt-3 text-xs text-neutral-600 leading-relaxed">
-                      <strong>dommooree05</strong> {selectedPost.caption}
+                      <strong>samyramoreira</strong> {selectedPost.caption}
                     </p>
                   </div>
 

@@ -82,7 +82,7 @@ export default function ShopFitsModal({ isOpen, onClose, shopImage }: ShopFitsMo
                 </div>
                 <div>
                   <h3 className="font-bold text-neutral-950">Shop My Fits</h3>
-                  <p className="text-[10px] text-neutral-500 font-medium">Recomendações de looks por Dominique</p>
+                  <p className="text-[10px] text-neutral-500 font-medium">Recomendações de looks por Samyra</p>
                 </div>
               </div>
               <button

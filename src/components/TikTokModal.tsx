@@ -31,7 +31,7 @@ export default function TikTokModal({ isOpen, onClose, tiktokImage }: TikTokModa
       views: '124.5K',
       title: 'Rotina matinal saudável de domingo ✨🧘‍♀️ #fitroutine #wellness',
       image: tiktokImage,
-      music: 'Som original - Dominique'
+      music: 'Som original - Samyra'
     },
     {
       id: 'vid2',

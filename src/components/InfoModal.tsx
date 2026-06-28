@@ -40,7 +40,7 @@ export default function InfoModal({ isOpen, onClose, profileImage }: InfoModalPr
               <div className="relative">
                 <img
                   src={profileImage}
-                  alt="Dominique Moore"
+                  alt="Samyra Moreira"
                   className="h-16 w-16 rounded-full object-cover border-2 border-amber-400"
                   referrerPolicy="no-referrer"
                 />
@@ -49,7 +49,7 @@ export default function InfoModal({ isOpen, onClose, profileImage }: InfoModalPr
                 </div>
               </div>
 
-              <h3 className="font-bold text-lg mt-3">Dominique Moore</h3>
+              <h3 className="font-bold text-lg mt-3">Samyra Moreira</h3>
               <p className="text-xs text-neutral-400">Atleta & Mentora Fitness</p>
 
               <div className="mt-4 border-t border-b border-neutral-800 py-3 w-full text-left space-y-3">
